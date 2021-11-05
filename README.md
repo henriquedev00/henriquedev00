@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello World, My name is Henrique Alves</h1>
 
-<!--
-**henriquedev00/henriquedev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>:computer: I'm a programming student, constantly evolving.</h3>
 
-Here are some ideas to get you started:
+<h3>:house_with_garden: I’m from Brazil.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>:books: I'm currently learning Laravel, Livewire, Vue.js, Flutter and Dart.</h3>
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  <a href="https://github.com/henriquedev00" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="henriquealves" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/jadiel-henrique-alves-reis-2494a318b" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="henriquealves" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/henrick_reis/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="henriquealves" height="30" width="30" />
+  </a>
+</p>
+
+- Thanks for visiting.
+
+- Enjoy it!! 👋
+
