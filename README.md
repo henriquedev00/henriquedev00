@@ -22,5 +22,7 @@
 
 - Thanks for visiting.
 
+- #NeverStopLearning
+
 - Enjoy it!! 👋
 
