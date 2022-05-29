@@ -4,7 +4,7 @@
 
 <h3>:house_with_garden: I’m from Brazil.</h3>
 
-<h3>:books: I'm currently learning Laravel, Livewire, Vue.js, Flutter and Dart.</h3>
+<h3>:books: I'm currently learning Laravel, Livewire, React.js.</h3>
 
 <h2 align="center">Connect with me</h2>
 
